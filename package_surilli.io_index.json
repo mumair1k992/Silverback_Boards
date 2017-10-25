@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/avr-1.1.5.zip",
           "archiveFileName": "avr-1.1.5.zip",
-          "checksum": "SHA-256:41f9728983e0dbab597bb46ddf00b5bac6cfec7c8f3771ecd1612dae58bb0366",
+          "checksum": "SHA-256:EDEA51B1024143037D7CC37A8DC26A552AC31392876BD8641466F9DE92C0C749",
           "size": "1162215",
           "help": {
             "online": "http://silver-back.co/"
@@ -35,7 +35,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/avr-1.1.6.zip",
           "archiveFileName": "avr-1.1.6.zip",
-          "checksum": "SHA-256:049FA0DF51602120EC1BDAC19F440FC0CC448C23BB277DD0D8DF855C52ACD483",
+          "checksum": "SHA-256:2CDF8A84A821078E37C08162D526CA2E46DB31CE150E126F70016027C2460A63",
           "size": "1159276",
           "help": {
             "online": "http://silver-back.co/"
@@ -54,7 +54,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/avr-1.1.7.zip",
           "archiveFileName": "avr-1.1.7.zip",
-          "checksum": "SHA-256:16A9CA03A7869C424562795504B82FEED0FB6A7D4A63FC94280FBBA44132257C",
+          "checksum": "SHA-256:E7BCE44F6DECBBA94F98E7A8F6E6B9A4EBBCA34DAFFB21B5BA143E4FA5E5662E",
           "size": "1236343",
           "help": {
             "online": "http://silver-back.co/"
@@ -69,49 +69,11 @@
         {
           "name": "Surilli SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
           "architecture": "samd",
-          "version": "1.0.0",
-          "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.0.0.zip",
-          "archiveFileName": "Surilli-samd-1.0.0.zip",
-          "checksum": "SHA-256:12e0be6862a3a28b6515755dcad2842757caf4e5270326554f95059512ebaab5",
-          "size": "268954",
-          "help": {
-            "online": "http://silver-back.co/"
-          },
-          "boards": [
-            {
-              "name": "Surilli Basic M0"
-            }
-          ],
-          "toolsDependencies": []
-        },
-        {
-          "name": "Surilli SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
-          "architecture": "samd",
-          "version": "1.1.0",
-          "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.1.0.zip",
-          "archiveFileName": "Surilli-samd-1.1.0.zip",
-          "checksum": "SHA-256:5d71cbf8ccf5781eef9809d7b3141041daf3ed1a1272f5278762ece5a0aecf44",
-          "size": "279683",
-          "help": {
-            "online": "http://silver-back.co/"
-          },
-          "boards": [
-            {
-              "name": "Surilli Basic M0"
-            }
-          ],
-          "toolsDependencies": []
-        },
-        {
-          "name": "Surilli SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
-          "architecture": "samd",
           "version": "1.2.0",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.2.0.zip",
           "archiveFileName": "Surilli-samd-1.2.0.zip",
-          "checksum": "SHA-256:50e055f311e07ba4d154bf00aa10579648024bef680bb3eb267401c496f791e6",
+          "checksum": "SHA-256:0c74f77aa33d9f86045be71dcd64028021651db3fc6d4983b8280ec5e7efcc26",
           "size": "281932",
           "help": {
             "online": "http://silver-back.co/"
@@ -130,7 +92,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.2.1.zip",
           "archiveFileName": "Surilli-samd-1.2.1.zip",
-          "checksum": "SHA-256:63b90fb26a18a89b2f51556a08286117cdade38d6cb7a16eb1eccb7d1d92422a",
+          "checksum": "SHA-256:ff2c9928b5dae30f90eaebf285ea8de5cb5be12376769fc269d685eccf4fb0d7",
           "size": "280405",
           "help": {
             "online": "http://silver-back.co/"
@@ -149,7 +111,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.2.2.zip",
           "archiveFileName": "Surilli-samd-1.2.2.zip",
-          "checksum": "SHA-256:21bc1ab1a8fd6550dca3b4953deaa2066d49ffa2583cd8e8a1e36d0c0ab00d52",
+          "checksum": "SHA-256:34dd17d9178118e8a927acd3c6c5da7dc0c23cc0725ec315508ea8f78ee34013",
           "size": "283240",
           "help": {
             "online": "http://silver-back.co/"
@@ -168,7 +130,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.3.0.zip",
           "archiveFileName": "Surilli-samd-1.3.0.zip",
-          "checksum": "SHA-256:87695137f303000099e7e6d3fae3e87d5882ed999e4c14403c65cf51a4d6a6be",
+          "checksum": "SHA-256:f2756d1024e84089d7aaff34cba773db06fcac8014b5cb25c3604d232be59515",
           "size": "195440",
           "help": {
             "online": "http://silver-back.co/"
@@ -186,7 +148,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.3.2.zip",
           "archiveFileName": "Surilli-samd-1.3.2.zip",
-          "checksum": "SHA-256:eb4274a3df4c6c4dbc1396600b1efc9cd9454e5be4880530ff87ba4fb3e6216a",
+          "checksum": "SHA-256:36da90d4149cac9d1205ece0930f11aa008ecced3c224c7cf7aeab0186158d00",
           "size": "206253",
           "help": {
             "online": "http://silver-back.co/"
@@ -205,7 +167,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.4.0.zip",
           "archiveFileName": "Surilli-samd-1.4.0.zip",
-          "checksum": "SHA-256:968918117E6EA9C7F3982F83E07B6459663AB844779855B5E175E19461C16691",
+          "checksum": "SHA-256:B48BD9105D10181D3D468AF7742209E82833796D834964DA4B3BC68627FB60D9",
           "size": "289555",
           "help": {
             "online": "http://silver-back.co/"
@@ -231,21 +193,21 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/sparkfun/samd-tools/bossac/bossac-1.4.0-win.zip",
+              "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/samd-tools/bossac/bossac-1.4.0-win.zip",
               "archiveFileName": "bossac-1.4.0-win.zip",
               "checksum": "SHA-256:BCA6503F5DBB1F96693AFD0701A759ECFB3BE5B9FB3F9D901CA17853B224F4EB",
               "size": "314705"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/sparkfun/samd-tools/bossac/bossac-1.4.0-linux64.tar.bz2",
+              "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/samd-tools/bossac/bossac-1.4.0-linux64.tar.bz2",
               "archiveFileName": "bossac-1.4.0-linux64.tar.bz2",
               "checksum": "SHA-256:BB8F398BF84C5F31880FE9A2C7AE0174592516CE4821B49744B426AA968ADA10",
               "size": "225696"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/sparkfun/samd-tools/bossac/bossac-1.4.0-osx.tar.bz2",
+              "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/samd-tools/bossac/bossac-1.4.0-osx.tar.bz2",
               "archiveFileName": "bossac-1.4.0-osx.tar.bz2",
               "checksum": "SHA-256:D0F225846D7BC80A74324D783CDB35C42A7F85EAD73CC016C0CC767B0AA5E81C",
               "size": "74461"
@@ -259,19 +221,19 @@
       "help": {
         "online": "http://surilli.io/"
       },
-      "websiteURL": "https://github.com/sparkfun/Arduino_Boards",
+      "websiteURL": "https://github.com/mumair1k992/Silverback",
       "platforms": [
         {
           "category": "Contributed",
           "name": "Surilli ESP8266 Boards",
-          "url": "https://cdn.sparkfun.com/assets/learn_tutorials/4/9/5/sparkfun-esp8266-2.1.0.tar.bz2",
-          "checksum": "SHA-256:FE3E0504B38A5A4C912801A3E4633380A666DC77B8D3043548187AF8675477DA",
+          "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/esp8266-2.1.0.zip",
+          "checksum": "SHA-256:442BBBD680BF1907F2EB6F9857D266A692E95A2D2330BA684BBA25B00C1801FB",
           "help": {
             "online": "http://surilli.io/"
           },
           "version": "2.1.0",
           "architecture": "esp8266",
-          "archiveFileName": "sparkfun-esp8266-2.1.0.tar.bz2",
+          "archiveFileName": "esp8266-2.1.0.zip",
           "boards": [
             {
               "name": "Surilli Wifi"
