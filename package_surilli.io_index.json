@@ -138,8 +138,8 @@
           "boards": [
             {
               "name": "Surilli Basic M0"
-            }        
-          ],
+            } 
+			],
           "toolsDependencies": []
         },
         {
