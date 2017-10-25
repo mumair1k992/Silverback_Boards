@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/avr-1.1.5.zip",
           "archiveFileName": "avr-1.1.5.zip",
-          "checksum": "SHA-256:EDEA51B1024143037D7CC37A8DC26A552AC31392876BD8641466F9DE92C0C749",
+          "checksum": "SHA-256:B8995B7FD9B9CC9A5980423F7F345284EE48534B550B0E63A2B9C8BAA92800FB",
           "size": "1162215",
           "help": {
             "online": "http://silver-back.co/"
@@ -35,7 +35,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/avr-1.1.6.zip",
           "archiveFileName": "avr-1.1.6.zip",
-          "checksum": "SHA-256:2CDF8A84A821078E37C08162D526CA2E46DB31CE150E126F70016027C2460A63",
+          "checksum": "SHA-256:C1A11DD054A21E04C011084E6E00D491ED88278521463D700E950B99D74512C6",
           "size": "1159276",
           "help": {
             "online": "http://silver-back.co/"
@@ -54,7 +54,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/avr-1.1.7.zip",
           "archiveFileName": "avr-1.1.7.zip",
-          "checksum": "SHA-256:E7BCE44F6DECBBA94F98E7A8F6E6B9A4EBBCA34DAFFB21B5BA143E4FA5E5662E",
+          "checksum": "SHA-256:FC809AA7EDA35F0FDF8A4CAA4424FDFFC56396DABB9A346E6347551ACF472C9A",
           "size": "1236343",
           "help": {
             "online": "http://silver-back.co/"
@@ -73,7 +73,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.2.0.zip",
           "archiveFileName": "Surilli-samd-1.2.0.zip",
-          "checksum": "SHA-256:0c74f77aa33d9f86045be71dcd64028021651db3fc6d4983b8280ec5e7efcc26",
+          "checksum": "SHA-256:9994716a68ddba9c1974bb914d5e9886541f32dcf2836588f59f49ba7a6ba0fe",
           "size": "281932",
           "help": {
             "online": "http://silver-back.co/"
@@ -92,7 +92,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.2.1.zip",
           "archiveFileName": "Surilli-samd-1.2.1.zip",
-          "checksum": "SHA-256:ff2c9928b5dae30f90eaebf285ea8de5cb5be12376769fc269d685eccf4fb0d7",
+          "checksum": "SHA-256:d9ee16a88971ed2087c9a01629fb2a7428c012d2bd701e922c077d829508c70b",
           "size": "280405",
           "help": {
             "online": "http://silver-back.co/"
@@ -111,7 +111,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.2.2.zip",
           "archiveFileName": "Surilli-samd-1.2.2.zip",
-          "checksum": "SHA-256:34dd17d9178118e8a927acd3c6c5da7dc0c23cc0725ec315508ea8f78ee34013",
+          "checksum": "SHA-256:17bd005556f4db7451329700f2b477116d9d3751efe15464d44586515e080fd8",
           "size": "283240",
           "help": {
             "online": "http://silver-back.co/"
@@ -130,7 +130,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.3.0.zip",
           "archiveFileName": "Surilli-samd-1.3.0.zip",
-          "checksum": "SHA-256:f2756d1024e84089d7aaff34cba773db06fcac8014b5cb25c3604d232be59515",
+          "checksum": "SHA-256:602618866feb8b59fba42e122f57f0633259afa0d6986e45eb8adec6882ef9ed",
           "size": "195440",
           "help": {
             "online": "http://silver-back.co/"
@@ -149,7 +149,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.3.2.zip",
           "archiveFileName": "Surilli-samd-1.3.2.zip",
-          "checksum": "SHA-256:36da90d4149cac9d1205ece0930f11aa008ecced3c224c7cf7aeab0186158d00",
+          "checksum": "SHA-256:f50429164ba1be497092109c19ae82e2a9005e2e30c78b656ad5dcbe188c6d4f",
           "size": "206253",
           "help": {
             "online": "http://silver-back.co/"
@@ -168,7 +168,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/Surilli-samd-1.4.0.zip",
           "archiveFileName": "Surilli-samd-1.4.0.zip",
-          "checksum": "SHA-256:B48BD9105D10181D3D468AF7742209E82833796D834964DA4B3BC68627FB60D9",
+          "checksum": "SHA-256:EABEABA34478B9561ED10D70E1106D7C259B2DFA62C6F54E27000715BE29A116",
           "size": "289555",
           "help": {
             "online": "http://silver-back.co/"
@@ -228,7 +228,7 @@
           "category": "Contributed",
           "name": "Surilli ESP8266 Boards",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/esp8266-2.1.0.zip",
-          "checksum": "SHA-256:442BBBD680BF1907F2EB6F9857D266A692E95A2D2330BA684BBA25B00C1801FB",
+          "checksum": "SHA-256:D14767B006D78C0ABF518B4F206537D3D7CE8C873E2F291A3AEAB76111879170",
           "help": {
             "online": "http://surilli.io/"
           },
