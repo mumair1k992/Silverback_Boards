@@ -1,43 +1,26 @@
-# SparkFun Arduino Boards
+# Silverback Arduino Boards
 
-This repository contains support for the following SparkFun Arduino-compatible development boards.
+This repository contains support for the following Silverback Arduino-compatible development boards.
 
 **IMPORTANT NOTE:** These board files have been updated for compatibility with Arduino version 1.8 and higher. Some boards (e.g. SAMD) may not compile correctly with earlier versions of Arduino. If you need compatibility with earlier versions of Arduino, you can choose previous releases of these boards from the Boards Manager.
 
 #### AVR Boards
 
-* [RedBoard](https://www.sparkfun.com/products/12757)
-* [MaKey MaKey](https://www.sparkfun.com/products/11511)
-* [Pro Micro 3.3V](https://www.sparkfun.com/products/10999)
-* [Pro Micro 5V](https://www.sparkfun.com/products/11098)
-* [Fio v3](https://www.sparkfun.com/products/11520)
-* [Qduino Mini](https://www.sparkfun.com/products/13614)
-* [Digital Sandbox](https://www.sparkfun.com/products/12651)
-* [Mega Pro 3.3V](https://www.sparkfun.com/products/10744)
-* [Mega Pro 5V](https://www.sparkfun.com/products/11007)
-* [RedBot](https://www.sparkfun.com/products/12097)
-* [Serial 7-Segment Display](https://www.sparkfun.com/products/11441)
-* [ATmega128RFA1 Development Board](https://www.sparkfun.com/products/11197)
-* [LilyPad USB Plus](https://www.sparkfun.com/products/14346)
+* [Surilli GSM (32u4)](https://www.surilli.io)
 
 #### SAMD (ARM Cortex-M0+) Boards
 
-* [SparkFun SAMD21 Dev Breakout](https://www.sparkfun.com/products/13672)
-* [SparkFun SAMD21 Mini Breakout](https://www.sparkfun.com/products/13664)
-* [SparkFun 9DoF Razor IMU M0 (SAMD21)](https://www.sparkfun.com/products/14001)
-* [SparkFun LilyMini ProtoSnap (SAMD11)](https://www.sparkfun.com/products/14063)
-* [SparkFun LilyMini (SAMD11)](https://www.sparkfun.com/products/14064)
+* [Surilli SAMD (SAMD21)](https://www.surilli.io)
 
 #### ESP8266 Boards
 
-* [ESP8266 Thing](https://www.sparkfun.com/products/13231)
-* [ESP8266 WiFi Shield](https://www.sparkfun.com/products/13287)
+* [Surilli WiFi (ESP8266)](https://www.surilli.io)
 
 ### Installation Instructions
 
 To add board support for our products, start Arduino and open the Preferences window (**File** > **Preferences**). Now copy and paste the following URL into the 'Additional Boards Manager URLs' input field:
 
-	https://raw.githubusercontent.com/sparkfun/Arduino_Boards/master/IDE_Board_Manager/package_sparkfun_index.json
+	https://raw.githubusercontent.com/Silverback-Pvt-Ltd/surilli.io/master/package_surilli.io_index.json
 
 ![Location of Additional Boards Manager URL input field](prefs-arrow.png)
 
@@ -49,15 +32,15 @@ Open the Boards Manager window by selecting **Tools** > **Board**, scroll to the
 
 ![Boards Manager Menu](manager-menu.png)
 
-If you type "sparkfun" (without quotes) into the "filter your search" field, you will see options to install SparkFun's AVR and ESP board files. Click in the desired box, and click the "Install" button that appears. Once installed, the boards will appear at the bottom of the board list.
+If you type "surilli" (without quotes) into the "filter your search" field, you will see options to install Silverback's AVR and ESP board files. Click in the desired box, and click the "Install" button that appears. Once installed, the boards will appear at the bottom of the board list.
 
-![Sparkfun Boards](sparkfunboards.png)
+![Silverback Boards](surilliboards.png)
 
 ### SAMD Installation Instructions
 
-When installing SAMD boards, you will need to first install Arduino SAMD support, then SparkFun's SAMD boards.
+When installing SAMD boards, you will need to first install Arduino SAMD support, then Silverback's SAMD boards.
 
-Open the Boards Manager window by selecting **Tools** > **Board**, scroll to the top of the board list, and select **Boards Manager**. Now type "samd" (without quotes) into the "filter your search" field at the top of the window. Two entries should show up, one for Arduino SAMD boards, and one for SparkFun SAMD boards. We'll install both of these, starting with Arduino SAMD boards.
+Open the Boards Manager window by selecting **Tools** > **Board**, scroll to the top of the board list, and select **Boards Manager**. Now type "samd" (without quotes) into the "filter your search" field at the top of the window. Two entries should show up, one for Arduino SAMD boards, and one for Silverback SAMD boards. We'll install both of these, starting with Arduino SAMD boards.
 
 Click anywhere in the "Arduino SAMD Boards" box, and click "Install". This is a large installation and will take a while.
 
@@ -65,9 +48,9 @@ Click anywhere in the "Arduino SAMD Boards" box, and click "Install". This is a 
 
 Now click anywhere in the "SparkFun SAMD Boards" box, and click "Install". This is a small installation and will happen much faster.
 
-![SparkFun SAMD Boards](manager-arrow2.png)
+![Silverback SAMD Boards](manager-arrow2.png)
 
-You're now ready to use SparkFun SAMD boards. They will appear at the bottom of the board list.
+You're now ready to use Silverback SAMD boards. They will appear at the bottom of the board list.
 
 ### Notes
 
@@ -75,4 +58,3 @@ You're now ready to use SparkFun SAMD boards. They will appear at the bottom of 
 * Information on compiling and programming the bootloaders can be found in the bootloaders directory.
 
 **Have fun!**<br>
-\-Your friends at SparkFun
