@@ -32,7 +32,7 @@ Open the Boards Manager window by selecting **Tools** > **Board**, scroll to the
 
 ![Boards Manager Menu](manager-menu.png)
 
-If you type "surilli" (without quotes) into the "filter your search" field, you will see options to install Silverback's AVR and ESP board files. Click in the desired box, and click the "Install" button that appears. Once installed, the boards will appear at the bottom of the board list.
+If you type "surilli" (without quotes) into search field, you will see options to install Silverback's AVR and ESP boards. Click the "Install" button that appears. Once installed, the boards will appear at the bottom of the board list.
 
 ![Silverback Boards](surilliboards.png)
 
@@ -46,15 +46,10 @@ Click anywhere in the "Arduino SAMD Boards" box, and click "Install". This is a 
 
 ![Arduino SAMD Boards](manager-arrow.png)
 
-Now click anywhere in the "SparkFun SAMD Boards" box, and click "Install". This is a small installation and will happen much faster.
+Now click anywhere in the "Silverback SAMD Boards" box, and click "Install". This is a small installation and will happen much faster.
 
 ![Silverback SAMD Boards](manager-arrow2.png)
 
 You're now ready to use Silverback SAMD boards. They will appear at the bottom of the board list.
-
-### Notes
-
-* Some boards such as the Arduino Pro and Pro Mini come in more than one flavor.  For these **you must select the correct processor** in the 'Tools' menu.
-* Information on compiling and programming the bootloaders can be found in the bootloaders directory.
 
 **Have fun!**<br>
