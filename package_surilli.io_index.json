@@ -228,7 +228,7 @@
           "category": "Contributed",
           "name": "Surilli ESP8266 Boards",
           "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/esp8266-2.1.0.zip",
-          "checksum": "SHA-256:D14767B006D78C0ABF518B4F206537D3D7CE8C873E2F291A3AEAB76111879170",
+          "checksum": "SHA-256:CE9F83EADADC6E0FB8C208B71FF64888FFD3033144AFABF462C64F331567647F",
           "help": {
             "online": "http://surilli.io/"
           },
