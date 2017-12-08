@@ -35,12 +35,13 @@ Open the Boards Manager window by selecting **Tools** > **Board**, scroll to the
 If you type "surilli" (without quotes) into search field, you will see options to install Silverback's AVR and ESP boards. Click the "Install" button that appears. Once installed, the boards will appear at the bottom of the board list.
 
 ![Silverback Boards](surilliboards.png)
+![Silverback Boards](surilliboards.png)
 
 ### SAMD Installation Instructions
 
 When installing SAMD boards, you will need to first install Arduino SAMD support, then Silverback's SAMD boards.
 
-Open the Boards Manager window by selecting **Tools** > **Board**, scroll to the top of the board list, and select **Boards Manager**. Now type "samd" (without quotes) into the "filter your search" field at the top of the window. Two entries should show up, one for Arduino SAMD boards, and one for Silverback SAMD boards. We'll install both of these, starting with Arduino SAMD boards.
+Open the Boards Manager window by selecting **Tools** > **Board**, scroll to the top of the board list, and select **Boards Manager**. Now type "samd" (without quotes) into the "filter box". Two entries should show up, one for Arduino SAMD boards, and one for Silverback SAMD boards. We'll install both of these, starting with Arduino SAMD boards.
 
 Click anywhere in the "Arduino SAMD Boards" box, and click "Install". This is a large installation and will take a while.
 
@@ -51,5 +52,6 @@ Now click anywhere in the "Silverback SAMD Boards" box, and click "Install". Thi
 ![Silverback SAMD Boards](manager-arrow2.png)
 
 You're now ready to use Silverback SAMD boards. They will appear at the bottom of the board list.
+![Silverback boards](full-boards.png)
 
 **Have fun!**<br>
