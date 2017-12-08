@@ -34,7 +34,7 @@ Open the Boards Manager window by selecting **Tools** > **Board**, scroll to the
 
 If you type "surilli" (without quotes) into search field, you will see options to install Silverback's AVR and ESP boards. Click the "Install" button that appears. Once installed, the boards will appear at the bottom of the board list.
 
-![Silverback Boards](to install.png)
+![Silverback Boards](to install.PNG)
 ![Silverback Boards](surilliboards.png)
 
 ### SAMD Installation Instructions
