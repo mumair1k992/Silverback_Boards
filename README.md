@@ -55,6 +55,11 @@ Now click anywhere in the "Silverback SAMD Boards" box, and click "Install". Thi
 ![Silverback SAMD Boards](manager-arrow2.png)
 
 You're now ready to use Silverback SAMD boards. They will appear at the bottom of the board list.
+
 ![Silverback boards](full-boards.png)
 
+ Upload the Blinky code
+ 
+ ![Blinky Example](example.png)
+ 
 **Have fun!**<br>
