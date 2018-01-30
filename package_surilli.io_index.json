@@ -232,9 +232,9 @@
           "help": {
             "online": "http://surilli.io/"
           },
-          "version": "2.1.0",
+          "version": "2.4.0",
           "architecture": "esp8266",
-          "archiveFileName": "esp8266-2.1.0.zip",
+          "archiveFileName": "esp8266-2.4.0.zip",
           "boards": [
             {
               "name": "Surilli Wifi"
@@ -508,7 +508,7 @@
           ]
         }
       ],
-      "email": "muhammad.umair@silverback",
+      "email": "muhammad.umair@silverback.com.pk",
       "name": "esp8266"
     }
   ]
