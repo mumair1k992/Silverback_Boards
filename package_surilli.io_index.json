@@ -90,9 +90,9 @@
           "architecture": "avr",
           "version": "1.1.9",
           "category": "Contributed",
-          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfunboards.1.1.9.tar.bz2",
-          "archiveFileName": "sparkfunboards.1.1.9.tar.bz2",
-          "checksum": "SHA-256:89480C355876966DB68504E4E4130719942320AECF0AD6AEF819299796B22202",
+          "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/master/surilliboards.1.1.9.tar.bz2",
+          "archiveFileName": "surilliboards.1.1.9.tar.bz2",
+          "checksum": "SHA-256:C13AADB05F1B9DC9C67A999DF45707DA95811E82CF34C84FEDE40E3D3DD0A88F",
           "size": "1238253",
           "help": {
             "online": "https://www.hackster.io/surilli"
