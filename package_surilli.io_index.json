@@ -265,34 +265,25 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards",
+          "name": "Surilli SAMD Boards",
           "architecture": "samd",
           "version": "1.4.0",
           "category": "Contributed",
-          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.4.0.tar.bz2",
-          "archiveFileName": "sparkfun-samd-1.4.0.tar.bz2",
-          "checksum": "SHA-256:968918117E6EA9C7F3982F83E07B6459663AB844779855B5E175E19461C16691",
-          "size": "289555",
+          "url": "https://mumair1k992.github.io/Silverback_Boards/boards/surilli-samd.1.4.0.tar.bz2",
+          "archiveFileName": "surilli-samd.1.4.0.tar.bz2",
+          "checksum": "SHA-256:67D33B1CF51005D772FF3AF597AD418D401829AFCF6636E5C25F643C99CFFB9E",
+          "size": "195421",
           "help": {
             "online": "https://www.hackster.io/surilli"
           },
-          "boards": [
+          "boards": [  
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
-            },
-            {
-              "name": "SparkFun SAMD21 Dev Breakout"
-            },
-            {
-              "name": "SparkFun 9DoF Razor IMU M0"
-            },
-            {
-              "name": "LilyPad LilyMini"
+              "name": "Surilli Basic M0"
             }
           ],
           "toolsDependencies": [
             {
-              "packager": "SparkFun",
+              "packager": "Surilli",
               "name": "bossac",
               "version": "1.4.0"
             }
