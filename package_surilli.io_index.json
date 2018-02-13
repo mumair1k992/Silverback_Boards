@@ -90,8 +90,8 @@
           "architecture": "avr",
           "version": "1.1.9",
           "category": "Contributed",
-          "url": "https://mumair1k992.github.io/Silverback_Boards/surilliboards.1.1.9.tar.bz2",
-          "archiveFileName": "surilliboards.1.1.9.tar.bz2",
+          "url": "https://mumair1k992.github.io/Silverback_Boards/surilliboards.1.1.9.zip",
+          "archiveFileName": "surilliboards.1.1.9.zip",
           "checksum": "SHA-256:2484C5A0E6AEBFBFAE0A96FE6A020E12DD4FA676CF85918804D15B22680325F0",
           "size": "833059",
           "help": {
