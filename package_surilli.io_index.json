@@ -265,7 +265,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "Surilli SAMD Boards",
+          "name": "Surilli SAMD Boards (dependency: Arduino SAMD Boards 1.6.9)",
           "architecture": "samd",
           "version": "1.4.0",
           "category": "Contributed",
