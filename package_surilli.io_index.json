@@ -90,10 +90,10 @@
           "architecture": "avr",
           "version": "1.1.9",
           "category": "Contributed",
-          "url": "https://mumair1k992.github.io/Silverback_Boards/boards/surilliboards.1.1.9.tar.bz2",
+          "url": "https://mumair1k992.github.io/Silverback_Boards/surilliboards.1.1.9.tar.bz2",
           "archiveFileName": "surilliboards.1.1.9.tar.bz2",
-          "checksum": "SHA-256:C13AADB05F1B9DC9C67A999DF45707DA95811E82CF34C84FEDE40E3D3DD0A88F",
-          "size": "699474",
+          "checksum": "SHA-256:2484C5A0E6AEBFBFAE0A96FE6A020E12DD4FA676CF85918804D15B22680325F0",
+          "size": "833059",
           "help": {
             "online": "https://www.hackster.io/surilli"
           },
