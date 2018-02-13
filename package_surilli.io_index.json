@@ -129,10 +129,10 @@
           "architecture": "samd",
           "version": "1.4.0",
           "category": "Contributed",
-          "url": "https://mumair1k992.github.io/Silverback_Boards/boards/surilli-samd.1.4.0.tar.bz2",
-          "archiveFileName": "surilli-samd.1.4.0.tar.bz2",
-          "checksum": "SHA-256:67D33B1CF51005D772FF3AF597AD418D401829AFCF6636E5C25F643C99CFFB9E",
-          "size": "195421",
+          "url": "https://mumair1k992.github.io/Silverback_Boards/surilli-samd.1.4.0.zip",
+          "archiveFileName": "surilli-samd.1.4.0.zip",
+          "checksum": "SHA-256:D832752B22D8D4756FFB91A3B4371EC05DF61A50F7C9054471714D9BB5FDE4B5",
+          "size": "261272",
           "help": {
             "online": "https://www.hackster.io/surilli"
           },
