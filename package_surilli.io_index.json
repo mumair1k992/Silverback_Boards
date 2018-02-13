@@ -129,7 +129,7 @@
           "architecture": "samd",
           "version": "1.4.0",
           "category": "Contributed",
-          "url": "https://mumair1k992.github.io/Silverback_Boards/surilli-samd.1.4.0.zip",
+          "url": "https://raw.githubusercontent.com/mumair1k992/Silverback_Boards/gh-pages/surilli-samd.1.4.0.zip",
           "archiveFileName": "surilli-samd.1.4.0.zip",
           "checksum": "SHA-256:72C3549901F30ABBF6A8590E616B71D612BA2BB5DE5883AB601BC07881C99746",
           "size": "224692",
